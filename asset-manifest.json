@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Anuska-Mishra-Portfolio/static/css/main.e2bfd845.chunk.css",
+    "main.js": "/Anuska-Mishra-Portfolio/static/js/main.4854d8e7.chunk.js",
+    "main.js.map": "/Anuska-Mishra-Portfolio/static/js/main.4854d8e7.chunk.js.map",
+    "runtime-main.js": "/Anuska-Mishra-Portfolio/static/js/runtime-main.e927346d.js",
+    "runtime-main.js.map": "/Anuska-Mishra-Portfolio/static/js/runtime-main.e927346d.js.map",
+    "static/css/2.fbcfe05c.chunk.css": "/Anuska-Mishra-Portfolio/static/css/2.fbcfe05c.chunk.css",
+    "static/js/2.71c04dd8.chunk.js": "/Anuska-Mishra-Portfolio/static/js/2.71c04dd8.chunk.js",
+    "static/js/2.71c04dd8.chunk.js.map": "/Anuska-Mishra-Portfolio/static/js/2.71c04dd8.chunk.js.map",
+    "index.html": "/Anuska-Mishra-Portfolio/index.html",
+    "precache-manifest.acab9c87538bc7602595ac9f6e55f5bd.js": "/Anuska-Mishra-Portfolio/precache-manifest.acab9c87538bc7602595ac9f6e55f5bd.js",
+    "service-worker.js": "/Anuska-Mishra-Portfolio/service-worker.js",
+    "static/css/2.fbcfe05c.chunk.css.map": "/Anuska-Mishra-Portfolio/static/css/2.fbcfe05c.chunk.css.map",
+    "static/css/main.e2bfd845.chunk.css.map": "/Anuska-Mishra-Portfolio/static/css/main.e2bfd845.chunk.css.map",
+    "static/js/2.71c04dd8.chunk.js.LICENSE.txt": "/Anuska-Mishra-Portfolio/static/js/2.71c04dd8.chunk.js.LICENSE.txt",
+    "static/media/anuskamishraimg.jpg": "/Anuska-Mishra-Portfolio/static/media/anuskamishraimg.2339c4c6.jpg",
+    "static/media/cp.jpg": "/Anuska-Mishra-Portfolio/static/media/cp.16050e6d.jpg",
+    "static/media/emojoy.png": "/Anuska-Mishra-Portfolio/static/media/emojoy.c6a193c5.png",
+    "static/media/gmail.png": "/Anuska-Mishra-Portfolio/static/media/gmail.13c50ffa.png",
+    "static/media/instagram.png": "/Anuska-Mishra-Portfolio/static/media/instagram.326720e2.png",
+    "static/media/movie.jpg": "/Anuska-Mishra-Portfolio/static/media/movie.5f4fda3e.jpg",
+    "static/media/newsmonkey.webp": "/Anuska-Mishra-Portfolio/static/media/newsmonkey.2ed0195c.webp",
+    "static/media/pp.jpg": "/Anuska-Mishra-Portfolio/static/media/pp.0145fd27.jpg",
+    "static/media/twitter.png": "/Anuska-Mishra-Portfolio/static/media/twitter.596562f7.png",
+    "static/media/wesummup.webp": "/Anuska-Mishra-Portfolio/static/media/wesummup.b0502c2c.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e927346d.js",
+    "static/css/2.fbcfe05c.chunk.css",
+    "static/js/2.71c04dd8.chunk.js",
+    "static/css/main.e2bfd845.chunk.css",
+    "static/js/main.4854d8e7.chunk.js"
+  ]
+}
